@@ -4,10 +4,14 @@
 I’ve always been drawn to technology as a tool for innovation, from problem-solving in chemistry labs to optimizing processes in e-commerce, and sales. As I transition into web development, I’m eager to apply my analytical mindset to building web applications that deliver meaningful, user-driven solutions.
 
 ## 🔨 Tech Stack
-Frontend: React, Javascript, HTML, CSS, SASS
-Backend: Node.js, Express.js, Knex.js
-Database: MySQL, PostgreSQL, Supabase
-Tools & Platforms: Git, Github, Quickbooks, Canva, Figma
+<ul>
+  <li>Frontend: React, Javascript, HTML, CSS, SASS</li>
+    <li>Backend: Node.js, Express.js, Knex.js</li>
+    <li>API Calls: Axios</li>
+    <li>Database: MySQL, PostgreSQL, Supabase</li>
+  <li>Tools & Platforms: Git, Github, Quickbooks, Canva, Figma</li>
+</ul>
+
 
 ## 🔭 I’m currently working on ...
 ### AnkHeal - Ankle Recovery App
