@@ -15,7 +15,7 @@ I’ve always been drawn to technology as a tool for innovation, from problem-so
 
 ## 🔭 I’m currently working on ...
 ### AnkHeal - Ankle Recovery App
-AnkHeal is an ankle recovery app recommending personalized workouts based on user surveys. It also stores user data and workout lists to track their progress. Currently, I am working on deploying the backend and database of AnkHeal to the cloud. You can view the front-end at <a href="https://www.myankheal.com">www.myankheal.com</a>
+AnkHeal is an ankle recovery app recommending personalized workouts based on user surveys. It also stores user data and workout lists to track their progress. Currently, I am working on deploying the backend and database of AnkHeal to the cloud. You can view the front-end at <a href="https://www.myankheal.com" target="_blank">www.myankheal.com</a>
 
 ## What's Next
 I'm eager to combine my scientific mindset, business acumen, and technical expertise to create meaningful, lasting solutions. If you're working on an innovative project or want to chat, feel free to reach out, I would love to connect!
