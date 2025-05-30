@@ -1,15 +1,15 @@
 # Hi there, I'm Sumer👋
 
 ## 🚀 About Me
-I’ve always been drawn to technology as a tool for innovation, from problem-solving in chemistry labs to optimizing processes in e-commerce, and sales. As I transition into web development, I’m eager to apply my analytical mindset to building web applications that deliver meaningful, user-driven solutions.
+I’ve always been drawn to technology as a tool for innovation, from problem-solving in chemistry labs to optimizing processes in e-commerce and sales. As I transition into web development, I’m eager to apply my analytical mindset to building web applications that deliver meaningful, user-driven solutions.
 
 ## 🔨 Tech Stack
 <ul>
-  <li>Frontend: React, Javascript, HTML, CSS, SASS</li>
+  <li>Frontend: HTML, CSS, SASS, JavaScript, TypeScript, React</li>
     <li>Backend: Node.js, Express.js, Knex.js</li>
     <li>API Calls: Axios</li>
     <li>Database: MySQL, PostgreSQL, Supabase</li>
-  <li>Tools & Platforms: Git, Github, Quickbooks, Canva, Figma</li>
+  <li>Tools & Platforms: Git, Github, Slack, Canva, Figma, JIRA, Stripe</li>
 </ul>
 
 
